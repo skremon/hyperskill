@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" group="Coffee_Machine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_main.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine-task_test.iml" group="Coffee_Machine/Coffee_Machine-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Balance checker/Problems-Balance_checker.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Balance checker/Problems-Balance_checker.iml" group="Coffee_Machine/Problems-Balance_checker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Balance checker/Problems-Balance_checker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Balance checker/Problems-Balance_checker_main.iml" group="Coffee_Machine/Problems-Balance_checker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Balance checker/Problems-Balance_checker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Balance checker/Problems-Balance_checker_test.iml" group="Coffee_Machine/Problems-Balance_checker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture.iml" group="Coffee_Machine/Problems-Collatz_conjecture" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture_main.iml" group="Coffee_Machine/Problems-Collatz_conjecture" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Collatz conjecture/Problems-Collatz_conjecture_test.iml" group="Coffee_Machine/Problems-Collatz_conjecture" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Coffee_Machine/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Coffee_Machine/util" />
+    </modules>
+  </component>
+</project>
